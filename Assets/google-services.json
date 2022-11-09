@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "621600787870",
+    "firebase_url": "https://voodoogame-9c0dc-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "voodoogame-9c0dc",
+    "storage_bucket": "voodoogame-9c0dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621600787870:android:f0198fdd2872bf2afe9a8f",
+        "android_client_info": {
+          "package_name": "com.DragonsFlyCompany.IHeatYou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621600787870-o08gq76da192pe2tj1pt9j1a48139tv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4W3UChoyxDflsVvDea8xrOCpLSE3xa5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621600787870-o08gq76da192pe2tj1pt9j1a48139tv0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "621600787870-rikjatokvvjn909sq26dt2n58nnhgtl7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DragonsFlyCompany.IHeatYou"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

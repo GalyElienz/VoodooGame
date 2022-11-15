@@ -82,9 +82,7 @@ namespace UI
 
         private void ExitButton()
         {
-            Debug.Log(Game.UserId);
-            Game.Auth.SignOut();
-            Game.IsSingIn = false;
+            Game.CleanUserData();
             SceneManager.LoadScene(sceneBuildIndex: 0);
         }
 

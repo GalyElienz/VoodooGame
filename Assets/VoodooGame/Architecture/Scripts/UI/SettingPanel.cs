@@ -124,8 +124,7 @@ namespace UI
         
         private void ExitButton()
         {
-            Game.Auth.SignOut();
-            Game.IsSingIn = false;
+            Game.CleanUserData();
             SceneManager.LoadScene(sceneBuildIndex: 0);
         }
 

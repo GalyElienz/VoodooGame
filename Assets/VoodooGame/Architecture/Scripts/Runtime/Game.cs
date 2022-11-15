@@ -17,5 +17,14 @@ namespace Runtime
         public static string EnemyName;
         public static string DollIndex;
         public static bool IsSingIn;
+
+        public static void CleanUserData()
+        {
+            User = null;
+            EnemyImage = null;
+            EnemyName = "";
+            DollIndex = "0";
+            IsSingIn = false;
+        }
     }
 }
